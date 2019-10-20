@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-commons/yw-commons.iml" filepath="$PROJECT_DIR$/yw-commons/yw-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-item/yw-item.iml" filepath="$PROJECT_DIR$/yw-item/yw-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-web/yw-web.iml" filepath="$PROJECT_DIR$/yw-web/yw-web.iml" />
+    </modules>
+  </component>
+</project>

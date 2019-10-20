@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yw-commons:war">
+    <output-path>$PROJECT_DIR$/yw-commons/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yw-commons</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yw-commons.war">
+      <element id="artifact" artifact-name="yw-commons:war exploded" />
+    </root>
+  </artifact>
+</component>
