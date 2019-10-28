@@ -6,24 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="yw-web" />
-        <module name="yw-item" />
+        <module name="yw-test" />
+        <module name="yw-auth" />
         <module name="yw-commons" />
         <module name="eureka" />
+        <module name="yw-item" />
+        <module name="yw-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
+      <module name="yw-auth" target="1.8" />
       <module name="yw-commons" target="1.8" />
       <module name="yw-item" target="1.8" />
+      <module name="yw-test" target="1.8" />
       <module name="yw-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eureka" options="-parameters" />
+      <module name="yw-auth" options="-parameters" />
       <module name="yw-commons" options="-parameters" />
       <module name="yw-item" options="-parameters" />
+      <module name="yw-test" options="-parameters" />
       <module name="yw-web" options="-parameters" />
     </option>
   </component>

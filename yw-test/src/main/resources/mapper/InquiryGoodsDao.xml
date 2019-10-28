@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.yw.modules.hdb.dao.InquiryGoodsDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.yw.modules.hdb.entity.InquiryGoodsEntity" id="inquiryGoodsMap">
+        <result property="id" column="id"/>
+        <result property="inquiryId" column="inquiry_id"/>
+        <result property="goodsName" column="goods_name"/>
+        <result property="goodsCode" column="goods_code"/>
+        <result property="qty" column="qty"/>
+        <result property="weight" column="weight"/>
+        <result property="volume" column="volume"/>
+        <result property="usd" column="usd"/>
+        <result property="sortOrder" column="sort_order"/>
+        <result property="revision" column="revision"/>
+        <result property="createdBy" column="created_by"/>
+        <result property="createdTime" column="created_time"/>
+        <result property="updatedBy" column="updated_by"/>
+        <result property="updatedTime" column="updated_time"/>
+        <result property="isDel" column="is_del"/>
+    </resultMap>
+
+
+</mapper>

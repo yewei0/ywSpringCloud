@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/yw-item/pom.xml" />
         <option value="$PROJECT_DIR$/eureka/pom.xml" />
         <option value="$PROJECT_DIR$/yw-web/pom.xml" />
+        <option value="$PROJECT_DIR$/yw-test/pom.xml" />
+        <option value="$PROJECT_DIR$/yw-auth/pom.xml" />
       </list>
     </option>
   </component>

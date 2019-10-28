@@ -1,7 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f55bac1-3420-4de8-8e3f-7cfc07206c36" name="Default Changelist" comment="" />
+    <list default="true" id="1f55bac1-3420-4de8-8e3f-7cfc07206c36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-auth/src/main/java/com/yw/config/AuthorizationServerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-auth/src/main/resources/mapper/itemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/YwTestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/controller/XJController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/dao/XJMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/InquiryAttachmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/InquiryGoodsContainerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/InquiryGoodsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/InquiryLogEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/InquirySheetEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/MemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/OrderAttachmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/OrderContainerInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/OrderExpensesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/OrderGoodsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/entity/StaffEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/modules/hdb/service/impl/XJServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/java/com/yw/service/XJService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/InquiryAttachmentDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/InquiryGoodsContainerDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/InquiryGoodsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/InquiryLogDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/InquirySheetDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/MemberDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/OrderAttachmentDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/OrderContainerInfoDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/OrderExpensesDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/OrderGoodsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/mapper/StaffDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/inquiryattachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/inquirygoods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/inquirygoodscontainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/inquirylog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/inquirysheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/orderattachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/ordercontainerinfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/orderexpenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/ordergoods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/statics/js/modules/hdb/staff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/inquiryattachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/inquirygoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/inquirygoodscontainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/inquirylog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/inquirysheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/orderattachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/ordercontainerinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/orderexpenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/ordergoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/main/resources/templates/modules/hdb/staff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yw-test/src/test/java/com/yw/YwTestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yw-item/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yw-item/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +165,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,14 +183,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1SNQkDOBWvehgQcRn6ZcA8g2aq5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/yw-item" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yw-auth/src/main/resources/mapper" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -41,13 +200,20 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\yw\yw-test\src\main\resources\mapper" />
+      <recent name="D:\idea\yw\yw-test\src\main\resources\static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\yw\yw-auth\src\main\resources\mapper" />
+      <recent name="D:\idea\yw\yw-test\src" />
       <recent name="D:\idea\yw\yw-item" />
       <recent name="D:\idea\yw\yw-commons\src\main\java\com\yw\dao" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yw.mapper" />
+      <recent name="com.yw.modules.hdb.dao" />
       <recent name="com.yw.service" />
+      <recent name="com.yw.mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,9 +241,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YwAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yw-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yw.YwAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YwItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="yw-item" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yw.YwItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YwTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yw-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yw.YwTestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,7 +278,7 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@4344bfd3" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@26d15a5b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -120,11 +300,30 @@
       <workItem from="1571404117948" duration="1883000" />
       <workItem from="1571407122108" duration="1430000" />
       <workItem from="1571409019152" duration="3539000" />
-      <workItem from="1571543515688" duration="9257000" />
+      <workItem from="1571543515688" duration="10050000" />
+      <workItem from="1571584676777" duration="84000" />
+      <workItem from="1571629795454" duration="605000" />
+      <workItem from="1572098900008" duration="715000" />
+      <workItem from="1572166872617" duration="50000" />
+      <workItem from="1572169249000" duration="7782000" />
+      <workItem from="1572231003809" duration="6422000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

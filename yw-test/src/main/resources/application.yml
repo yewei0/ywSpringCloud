@@ -1,0 +1,13 @@
+server:
+  port: 1111
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/yw
+    username: postgres
+    password: 123456
+    driver-class-name: org.postgresql.Driver
+mybatis:
+  typeAliasesPackage: com.yw.modules.hdb.dao
+  mapperLocations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true

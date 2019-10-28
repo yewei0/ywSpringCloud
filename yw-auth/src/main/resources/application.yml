@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: yw-auth
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jtdb?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true
+    username: root
+    password: 123456
+
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  type-aliases-package: com.yw.dao
+
+server:
+  port: 8002
+
+logging:
+  level:
+    com.yw.mapper: debug
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.1.9:2001/eureka
