@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/yw-item/yw-item.iml" filepath="$PROJECT_DIR$/yw-item/yw-item.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-test/yw-test.iml" filepath="$PROJECT_DIR$/yw-test/yw-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-web/yw-web.iml" filepath="$PROJECT_DIR$/yw-web/yw-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-wxlogin/yw-wxlogin.iml" filepath="$PROJECT_DIR$/yw-wxlogin/yw-wxlogin.iml" />
     </modules>
   </component>
 </project>

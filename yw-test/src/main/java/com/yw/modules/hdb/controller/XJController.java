@@ -1,6 +1,7 @@
 package com.yw.modules.hdb.controller;
 
 import com.yw.modules.hdb.entity.InquirySheetEntity;
+import com.yw.modules.hdb.entity.test;
 import com.yw.service.XJService;
 import com.yw.util.JsonResult;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,10 +20,19 @@ public class XJController {
     @Autowired
     private XJService xjService;
     @RequestMapping("/queryInquirySheets/{inquiryStatus}/{transportModeId}/{inOut}")
+
     public JsonResult<List<InquirySheetEntity>>  queryInquirySheets(@PathVariable("inquiryStatus") String inquiryStatus,
                                                                     @PathVariable("transportModeId") String transportModeId ,
                                                                     @PathVariable("inOut") String inOut){
         List<InquirySheetEntity> list =xjService.findall( inquiryStatus,transportModeId,inOut);
-        return JsonResult.ok(list).msg("OK");
+
+        return JsonResult.err();
+
+    }
+
+    @PostMapping("/ss/")
+    public JsonResult  Test(@RequestBody test s ){
+
+        return JsonResult.ok(s).msg("ok");
     }
 }
