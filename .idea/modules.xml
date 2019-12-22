@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-auth/yw-auth.iml" filepath="$PROJECT_DIR$/yw-auth/yw-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-commons/yw-commons.iml" filepath="$PROJECT_DIR$/yw-commons/yw-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-file/yw-file.iml" filepath="$PROJECT_DIR$/yw-file/yw-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-item/yw-item.iml" filepath="$PROJECT_DIR$/yw-item/yw-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yw-lightbatis/yw-lightbatis.iml" filepath="$PROJECT_DIR$/yw-lightbatis/yw-lightbatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-test/yw-test.iml" filepath="$PROJECT_DIR$/yw-test/yw-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-web/yw-web.iml" filepath="$PROJECT_DIR$/yw-web/yw-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/yw-wxlogin/yw-wxlogin.iml" filepath="$PROJECT_DIR$/yw-wxlogin/yw-wxlogin.iml" />

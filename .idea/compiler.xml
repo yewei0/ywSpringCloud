@@ -13,12 +13,14 @@
         <module name="yw-item" />
         <module name="yw-web" />
         <module name="yw-wxlogin" />
+        <module name="yw-file" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="yw-auth" target="1.8" />
       <module name="yw-commons" target="1.8" />
+      <module name="yw-file" target="1.8" />
       <module name="yw-item" target="1.8" />
       <module name="yw-test" target="1.8" />
       <module name="yw-web" target="1.8" />
@@ -30,6 +32,7 @@
       <module name="eureka" options="-parameters" />
       <module name="yw-auth" options="-parameters" />
       <module name="yw-commons" options="-parameters" />
+      <module name="yw-file" options="-parameters" />
       <module name="yw-item" options="-parameters" />
       <module name="yw-test" options="-parameters" />
       <module name="yw-web" options="-parameters" />

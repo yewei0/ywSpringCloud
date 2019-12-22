@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/yw-test/pom.xml" />
         <option value="$PROJECT_DIR$/yw-auth/pom.xml" />
         <option value="$PROJECT_DIR$/yw-wxlogin/pom.xml" />
+        <option value="$PROJECT_DIR$/yw-file/pom.xml" />
+        <option value="$PROJECT_DIR$/yw-lightbatis/pom.xml" />
       </list>
     </option>
   </component>

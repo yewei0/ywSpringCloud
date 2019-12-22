@@ -19,6 +19,14 @@ import java.util.List;
 public class XJController {
     @Autowired
     private XJService xjService;
+
+    /**
+     *
+     * @param inquiryStatus
+     * @param transportModeId
+     * @param inOut
+     * @return
+     */
     @RequestMapping("/queryInquirySheets/{inquiryStatus}/{transportModeId}/{inOut}")
 
     public JsonResult<List<InquirySheetEntity>>  queryInquirySheets(@PathVariable("inquiryStatus") String inquiryStatus,
